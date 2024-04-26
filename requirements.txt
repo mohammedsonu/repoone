@@ -1,2 +1,2 @@
 streamlit==0.87.0
-twilio==6.59.0
+twilio==9.0.5
